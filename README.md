@@ -61,4 +61,4 @@ Ngoài việc điều khiển bằng cử chỉ tay, bạn có thể dùng thêm
 
 ## 6. Link Video Demo
 
-- **Video chạy thử chương trình**: *(Dán link Google Drive hoặc YouTube quay màn hình demo của bạn vào đây)*
+- **Video chạy thử chương trình**: https://drive.google.com/file/d/1wiYQjz3ftgSq4CGt85QHYkx9HjfrMj2r/view?usp=drive_link

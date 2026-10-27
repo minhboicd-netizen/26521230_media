@@ -25,8 +25,8 @@ Chương trình tương thích với cả **Python 3.9 – 3.14** (hỗ trợ c�
 
 ### Bước 1: Tải mã nguồn về máy
 ```bash
-git clone https://github.com/<ten-tai-khoan-cua-ban>/bang-ve-mediapipe.git
-cd bang-ve-mediapipe
+git clone https://github.com/minhboicd-netizen/26521230_media.git
+cd 26521230_media
 ```
 
 ### Bước 2: Cài đặt thư viện
